@@ -1,0 +1,6 @@
+{
+  "name": "WeatherNet AI - India's Unified Weather Intelligence Platform",
+  "description": "National Weather Intelligence Command Center providing unified weather reporting, AI-assisted verification, and real-time situational awareness across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
